@@ -1,0 +1,67 @@
+{
+    "child": {
+        "child1": {
+            "child1": {
+                "directory": "\/home\/theja\/projects\/portfolio-template",
+                "height": 222,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "191b8a51-92b3-42fb-bf68-df6705325eb9",
+                "width": 408
+            },
+            "child2": {
+                "directory": "\/home\/theja\/projects\/portfolio-template",
+                "height": 222,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "a4dcdd7d-97f3-44c7-841d-4bc5ea907071",
+                "width": 408
+            },
+            "orientation": 1,
+            "position": 49,
+            "ratio": 0.498876404494382031,
+            "type": "Paned"
+        },
+        "child2": {
+            "child1": {
+                "directory": "\/home\/theja\/projects\/portfolio-template",
+                "height": 222,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "4b94d44f-b702-462e-b6b6-18872f526e11",
+                "width": 233
+            },
+            "child2": {
+                "directory": "\/home\/theja\/projects\/portfolio-template",
+                "height": 222,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "c9cec5ab-98e9-4622-ba79-33169426aaa0",
+                "width": 233
+            },
+            "orientation": 1,
+            "position": 49,
+            "ratio": 0.498876404494382031,
+            "type": "Paned"
+        },
+        "orientation": 0,
+        "position": 63,
+        "ratio": 0.635514018691588745,
+        "type": "Paned"
+    },
+    "height": 445,
+    "name": "${title}",
+    "synchronizedInput": false,
+    "type": "Session",
+    "uuid": "f47fedf7-6e65-4a83-8924-e12844d8b087",
+    "version": "1.0",
+    "width": 642
+}
