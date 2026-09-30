@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:17
+    container_name: portfolio-template-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: portfolio
+      POSTGRES_PASSWORD: portfolio_dev
+      POSTGRES_DB: portfolio_template
+    ports:
+      - "5433:5432"
+    volumes:
+      - portfolio_postgres_data:/var/lib/postgresql/data
+
+volumes:
+  portfolio_postgres_data:
